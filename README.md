@@ -1,6 +1,8 @@
 # 🚆 UK Train Rides Analysis
 ### Passenger Behavior, Revenue Performance & Train Delay Insights
 
+![Project Dashboard](A_modern_data_analytics_scene_showing_uk_train_tra_delpmaspu.png)
+
 ---
 
 ## 📌 Project Description
@@ -66,6 +68,9 @@ UK-Train-Rides-Analysis
 │
 ├── dashboard
 │   └── powerbi_dashboard.pbix
+│
+├── images
+│   └── dashboard.png
 │
 └── README.md
 ```
