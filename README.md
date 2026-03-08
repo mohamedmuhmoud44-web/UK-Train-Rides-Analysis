@@ -115,10 +115,3 @@ jupyter notebook
 ## 📈 Expected Outcome
 
 This project provides valuable insights into passenger travel behavior, ticket revenue distribution, and train delay patterns. The results help in understanding railway operational performance and identifying opportunities for improving service efficiency and passenger experience.
-
----
-
-## 👨‍💻 Contributors
-
-Team El Molok  
-DEPI Data Analysis Project
